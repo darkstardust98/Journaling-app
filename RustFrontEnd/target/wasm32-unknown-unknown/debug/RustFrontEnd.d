@@ -1,0 +1,1 @@
+/Users/home/Programming/RUST/tutorials/Journaling-app/RustFrontEnd/target/wasm32-unknown-unknown/debug/RustFrontEnd.wasm: /Users/home/Programming/RUST/tutorials/Journaling-app/RustFrontEnd/src/main.rs

@@ -17,8 +17,8 @@ fn app() -> Html {
             state.set(Model {
                 value: state.value + 1
             })
-        }
-    }
+        })
+    };
 
     html! {
         <div>
