@@ -1,3 +1,3 @@
-Programmed following youtuber "Code to the moon" 's tutorial.
+Programmed following youtuber "Code to the moon" 's tutorials.
 
-The project incorporates the usage of Upstash Redis as database.
+The project incorporates YEW as front end framework and the usage of Upstash Redis as database.
