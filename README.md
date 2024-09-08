@@ -1,3 +1,2 @@
-Programmed following youtuber "Code to the moon" 's tutorials.
-
-The project incorporates YEW as front end framework and the usage of Upstash Redis as database.
+Simple count incrementer web-app created via WASM and YEW.
+Following tutorial "Build a rust Frontend" from youtuber "Code to the moon".
